@@ -1,0 +1,6 @@
+ultralytics<=8.3.40
+opencv-python
+matplotlib
+gdown
+streamlit
+importnb
